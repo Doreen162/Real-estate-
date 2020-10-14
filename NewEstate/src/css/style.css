@@ -12,7 +12,7 @@
 
 .card {
     margin: 10px;
-    width: 3500px;
+    width: 350px;
     height: max-content;
     border-radius: 20px;
     box-shadow: 0 3px 15px rgba(100, 100, 100, 0.5);
@@ -20,8 +20,8 @@
 }
 .card-img {
     margin: 0;
-    width: 3500px;
-    height:2500px;
+    width: 350px;
+    height:250px;
     border-top-right-radius: 20px;
     border-top-left-radius: 20px;
 }
