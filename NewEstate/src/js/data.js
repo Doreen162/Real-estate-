@@ -1,7 +1,7 @@
 
 let places = [
   {
-    image: "",
+    image: "../../public/images/Estate.jpg",
     type: "Apartment",
     location: "Paarl",
     price: 1000,
