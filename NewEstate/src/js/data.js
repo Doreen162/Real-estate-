@@ -29,7 +29,7 @@ let places = [
     type: "Villa",
     location: "Camps Bay",
     price: 5000,
-    bedrooms: 4,
+    bedrooms: 3,
     status: "For sale",
   },
   {
@@ -37,7 +37,7 @@ let places = [
     type: "Apartment",
     location: "Paarl",
     price: 3500,
-    bedrooms: 4,
+    bedrooms: 2,
     status: "For sale",
   },
   {
